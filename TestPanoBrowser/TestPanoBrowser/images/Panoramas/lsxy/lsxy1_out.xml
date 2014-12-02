@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node28">
+  <panorama id="node28" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="301.5" fov="68" tilt="-2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2014:05:09 18:06:21" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <input width="2000" height="2000" leveltilesize="256" levelbias="0.4" overlap="1" leveltileurl="images/丽水学院图书馆/c%c_l%r_%y_%x.jpg">
+      <level width="2000" height="2000" preload="0"/>
+      <level width="1000" height="1000" preload="0"/>
+      <level width="500" height="500" preload="1"/>
+      <level width="125" preview="1" height="125" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="10.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
